@@ -43,7 +43,7 @@ Las campañas publicitarias no pueden ser universales; deben configurarse de acu
 * Jupyter Notebook
 
 ## Ver el Análisis Completo
-👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_zuber.ipynb)
+👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_tienda_ice.ipynb)
 
 
 
