@@ -1,6 +1,6 @@
 # Proyecto tienda Ice
 
-**Descripción:** 
+## Descripción 
 El objetivo principal de este proyecto es identificar los patrones y factores clave que determinan el éxito comercial de un videojuego en el mercado global. Para lograrlo se utilizan bases de datos provenientes de fuentes abiertas que, integran reseñas de usuarios, calificaciones de expertos, géneros, plataformas y datos históricos de ventas regionales.
 La meta final consiste en transformar los datos históricos referidos, en conocimiento estratégico que, le permita a la dirección de la tienda Ice, optimizar la toma de decisiones, mitigar riesgos financieros, planificar campañas publicitarias altamente eficientes y detectar los proyectos más prometedores del sector de cara al período comercial de 2017.
 
