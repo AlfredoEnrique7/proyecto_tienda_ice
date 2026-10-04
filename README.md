@@ -4,7 +4,7 @@
 El objetivo principal de este proyecto es identificar los patrones y factores clave que determinan el éxito comercial de un videojuego en el mercado global. Para lograrlo se utilizan bases de datos provenientes de fuentes abiertas que, integran reseñas de usuarios, calificaciones de expertos, géneros, plataformas y datos históricos de ventas regionales.
 La meta final consiste en transformar los datos históricos referidos, en conocimiento estratégico que, le permita a la dirección de la tienda Ice, optimizar la toma de decisiones, mitigar riesgos financieros, planificar campañas publicitarias altamente eficientes y detectar los proyectos más prometedores del sector de cara al período comercial de 2017.
 
-## Conclusiones Clave
+## Conclusiones
 ### 1. Diagnóstico del mercado y ciclo de vida del hardware
 * **Evolución temporal:** La industria ha cambiado su modelo de negocio. Aunque se producen menos títulos físicos en comparación con el pico histórico de 2008-2009, el gasto se ha concentrado en grandes superproducciones (juegos AAA). 
 * **Ciclo de consolas:** Las plataformas tienen una vida útil comercial de entre **5 y 6 años**. Consolas que dominaron el pasado como PlayStation 3, Xbox 360 y Wii se encuentran en una fase de declive terminal y **deben ser completamente excluidas** de los esfuerzos publicitarios de 2017.
@@ -38,11 +38,11 @@ Las campañas publicitarias no pueden ser universales; deben configurarse de acu
 
 **Conclusión final:** La estrategia ganadora para la tienda Ice en 2017 consiste en concentrar el capital publicitario en **videojuegos de Acción y Disparos (Shooter) para PS4 y Xbox One en el mercado occidental (NA/UE)**, orientados a un **público adulto (ESRB: M)**; mientras que para el **mercado asiático (JP)**, el presupuesto debe desviarse exclusivamente hacia títulos de **Rol (RPG) para la plataforma portátil Nintendo 3DS**.
 
-## Tecnologías Utilizadas
+## Tecnologías utilizadas
 * Python (Pandas, Matplotlib, Seaborn, NumPy, Spipy.stats, Beautifulsoup4, Requests)
 * Jupyter Notebook
 
-## Ver el Análisis Completo
+## Ver el análisis completo
 👉 [Haz clic aquí para ver el código y los gráficos interactivos](proyecto_tienda_ice.ipynb)
 
 
